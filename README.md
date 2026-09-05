@@ -11,6 +11,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0012-integer-to-roman) |
 ## Linked List
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0002-add-two-numbers](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 | [0006-zigzag-conversion](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
