@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
