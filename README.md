@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,10 +69,12 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/chirag241827/Java-dsa-solutions/tree/master/0018-4sum) |
 ## Backtracking
 |  |
 | ------- |
